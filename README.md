@@ -1,10 +1,10 @@
 # Essential Links
 
-- [Assignment Links]()
+- [Assignment Links](https://github.com/allegheny-college-cmpsc-406-spring-2024/course-materials/blob/main/assignments.md)
 - Gradebook <- coming soon!
-- [Schedule of Topics]()
-- [Professor Office Hours]()
-- [Class Discord Channel]()
+- [Schedule of Topics](https://github.com/allegheny-college-cmpsc-406-spring-2024/course-materials/blob/main/schedule.md)
+- [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP)
+- [Class Discord Channel](https://discord.com/channels/877320365825749002/1195131890974339102)
 
 ## Course Description
 
