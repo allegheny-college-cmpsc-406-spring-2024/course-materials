@@ -4,7 +4,7 @@
 
 | Assignment Link            | Deadline                |
 | -------------------------- | ----------------------- |
-| Ohm's Law & Paper Circuits | Monday, January 22, 8PM |
+| [Paper Circuits](https://classroom.github.com/a/M3srn37H) | Monday, January 22, 8PM |
 
 ## Upcoming
 

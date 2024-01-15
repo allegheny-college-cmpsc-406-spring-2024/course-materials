@@ -1,5 +1,7 @@
 # Schedule of Topics
 
+***Schedule is subject to change!***
+
 | Week               | Content                                             |
 | ------------------ | --------------------------------------------------- |
 | *Weeks 1-4*      | *Intro to IoT - Mini Projects*                    |
