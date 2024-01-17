@@ -6,7 +6,15 @@
 - [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP)
 - [Class Discord Channel](https://discord.com/channels/877320365825749002/1195131890974339102)
 
-## Course Description
+## Professor Contact
+
+Morgan Green <br>
+mgreen@allegheny.edu <br>
+Alden Hall, #209
+
+I respond to emails within one business day. 
+
+## Syllabus
 
 ### Catalog Description
 
