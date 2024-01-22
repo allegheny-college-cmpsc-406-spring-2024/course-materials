@@ -1,15 +1,16 @@
 # Assignment Links
 
-## Current
-
-| Assignment Link            | Deadline                |
-| -------------------------- | ----------------------- |
+| Assignment Link                                             | Deadline                   |
+| ----------------------------------------------------------- | -------------------------- |
+| Breadboard Sensors                                          | Monday, January 29, 8PM    |
 | [Breadboard Circuits](https://classroom.github.com/a/uLKZwMI7) | Wednesday, January 24, 8PM |
-| [Paper Circuits](https://classroom.github.com/a/M3srn37H) | Monday, January 22, 8PM |
+| [Paper Circuits](https://classroom.github.com/a/M3srn37H)      | Monday, January 22, 8PM    |
+
+## Current
 
 ## Upcoming
 
-| Assignment          | Deadline                   |
-| ------------------- | -------------------------- |
-| Breadboard Sensors  | Monday, January 29, 8PM    |
-| Arduino Sensors     | Wednesday, January 31, 8PM |
+| Assignment              | Deadline                   |
+| ----------------------- | -------------------------- |
+| Arduino Onboard Sensors | Wednesday, January 31, 8PM |
+| Arduino Data & Analysis | Monday, February 5, 8PM    |
