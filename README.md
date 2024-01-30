@@ -75,7 +75,7 @@ You can receive up to four points in each of the listed IoT categories. The maxi
 1. Sensing (CLO 1)
 2. Circuity (CLO 2)
 3. Data Analysis and Visualization (CLO 2)
-4. Interaction Design (CLO 3)
+4. Interaction & Design (CLO 3)
 5. Interdevice Communication (CLO 4)
 
 You can receive up one point per category for each large project. In order ot receive a point, you will define and achieve a project-goal related to that category, according to the terms of the assignment. Written reflection will be an important part of goal achievement (CLO 5). You will also have opportunities to receive points in these categories in the mini-projects at the start of the term. 
