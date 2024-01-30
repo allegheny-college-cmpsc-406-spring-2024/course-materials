@@ -73,10 +73,10 @@ Your letter grade will be based on a score out of twenty with the following crit
 You can receive up to four points in each of the listed IoT categories. The maximum score you will receive in all five categories is 14 if any one category has fewer than two checks. The maximum score you can receive in all five IoT categories is 16, regardless of your total.
 
 1. Sensing (CLO 1)
-2. Circuity and Design (CLO 2)
+2. Circuity (CLO 2)
 3. Data Analysis and Visualization (CLO 2)
-4. Circuitry & Interaction Design (CLO 2)
-5. Interdevice Communicaiton (CLO 4)
+4. Interaction Design (CLO 3)
+5. Interdevice Communication (CLO 4)
 
 You can receive up one point per category for each large project. In order ot receive a point, you will define and achieve a project-goal related to that category, according to the terms of the assignment. Written reflection will be an important part of goal achievement (CLO 5). You will also have opportunities to receive points in these categories in the mini-projects at the start of the term. 
 
