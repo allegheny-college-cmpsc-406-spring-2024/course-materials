@@ -1,10 +1,6 @@
-# Essential Links
+# Syllabus
+## CMPSC-406 Internet of Things
 
-- [Assignment Links](https://github.com/allegheny-college-cmpsc-406-spring-2024/course-materials/blob/main/assignments.md)
-- Gradebook <- coming soon!
-- [Schedule of Topics](https://github.com/allegheny-college-cmpsc-406-spring-2024/course-materials/blob/main/schedule.md)
-- [Professor Office Hours](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1ZnFy9IkWemSjQ98WWhGh7UVwkph3U2RuDrrLt781dWM4x_bQPunp9mylOe8TXdHWjtKpGa1SP)
-- [Class Discord Channel](https://discord.com/channels/877320365825749002/1195131890974339102)
 
 ## Professor Contact
 
@@ -12,9 +8,10 @@ Morgan Green <br>
 mgreen@allegheny.edu <br>
 Alden Hall, #209
 
-I respond to emails within one business day. 
+Office Hours: Thurs 2:30PM - 5:30 PM, Fri 9:00 AM - 12:00PM
 
-## Syllabus
+
+I respond to emails within one business day. 
 
 ### Catalog Description
 
