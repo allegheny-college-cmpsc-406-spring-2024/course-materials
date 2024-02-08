@@ -4,7 +4,7 @@
 
 | Assignment Link                                                                                                    | Deadline                   |
 | ------------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| [Light Data](https://classroom.github.com/a/DkNyVJpS) | Wed, Feb 7, 8PM |
+| [Light Data](https://classroom.github.com/a/DkNyVJpS) | Mon, Feb 12, 8PM |
 | [Art Project Planning](https://classroom.github.com/a/X9aQ_zHa)                                                    | Monday, Feb 5, 8PM         |
 
 
