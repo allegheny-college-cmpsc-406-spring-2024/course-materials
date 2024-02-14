@@ -2,8 +2,9 @@
 
 ## Current
 
-| Assignment Link                                                                       | Deadline               |
-| ------------------------------------------------------------------------------------- | ---------------------- |
+| Assignment Link                                                                    | Deadline               |
+| ---------------------------------------------------------------------------------- | ---------------------- |
+| [Light Data Analysis](https://classroom.github.com/a/FKhsVazU)                        | Mon, Feb 19, 8 PM      |
 | [Art Project](https://classroom.github.com/a/UUJ9CPCU)                                | Mon, March 4, 8 PM     |
 | [Laser Files](https://github.com/allegheny-college-cmpsc-406-spring-2024/laser-files) | Tues, Feb 13, 12:15 PM |
 | [Light Data](https://classroom.github.com/a/DkNyVJpS)                                 | Mon, Feb 12, 8 PM      |
