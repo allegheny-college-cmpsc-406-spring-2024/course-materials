@@ -17,10 +17,12 @@
 | 8 (Mar 11 - 17)    | Revise, Complete, Reflect                                |
 | *Weeks 9-10*     | *Environmental Science Project*                   |
 | 9 (Mar 18 - 24)    | Design & Build                                               |
+| March 19 | Field Trip | 
 | 10 (Mar 25 - 31)   | Revise, Complete, Reflect                           |
 | *Weeks 11-15*    | *Final Project*                                   |
 | 11 (April 1 - 7)   | Final Proposal Workshop                             |
 | 12 (April 8 - 14)  | Project & Goal Design                               |
 | 13 (April 15 - 21) | Build                                               |
+| April 16 | Guest Speaker | 
 | 14 (April 22 - 28) | Build and share                                     |
 |                    | *Final project reflection due during finals week* |
