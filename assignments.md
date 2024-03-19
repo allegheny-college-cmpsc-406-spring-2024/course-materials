@@ -5,7 +5,7 @@
 | Assignment Link                                                                                        | Deadline                                                                                       |
 | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
 | [Environment Dashboard](https://classroom.github.com/a/U69lxgc3)                                       | Mon, April 1, 8 PM                                                                             |
-| [Pico and Socket Connections](https://github.com/allegheny-college-cmpsc-406-spring-2024/pico-sockets) | Wed, March 20, 8 PM |
+| [Pico and Socket Connections](https://github.com/allegheny-college-cmpsc-406-spring-2024/pico-sockets) | ~~Wed, March 20~~ Thurs, March 21, 8 PM |
 | [Art Project](https://classroom.github.com/a/UUJ9CPCU)                                                 | Mon, March 18, 8 PM                                                                            |
 
 ## Past
