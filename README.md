@@ -88,7 +88,7 @@ In order to receive a point for attendance, attend 80% of class sessions. If you
 
 Participate in class regularly: participation can include sharing work, talking during class discussions, asking/answering professor questions, attending office hours, collaborating with fellow students
 
-##### Short Essay Assignments: One point each
+##### Short Essay Assignment: Two points
 
 Each student will write and present two short research essays about the Internet of Things: one a cautionary tale, the other an inspirational story (CLO 5). You will receive a point for each essay where you fulfill all requirements stipulated in the assignment.
 
